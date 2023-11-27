@@ -52,6 +52,14 @@ pip install streamlit
 streamlit run chatbot.py
 ```
 
-## Screenshots
+## Screenshots 
 
+![Barchart](chatbot-barchart.png)
 
+![Table](chatbot-table.png)
+
+![Table with filter](chatbot-table-filter.png)
+
+![Top stocks](chatbot-stocks.png)
+
+![Top stocks in a table](chatbot-stocks-table.png)
