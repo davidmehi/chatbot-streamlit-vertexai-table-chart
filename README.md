@@ -1,7 +1,7 @@
 
 # Chatbot Example with Streamlit, LangChain, VertexAI, Chroma and UI Elements (Tables, Charts, Graphs)
 
-This is a quick example of how to build a chatbot using langchain that can generate dynamic charts and graphs based on data from an LLM using VertexAI.  Note that this is not optimized or tuned.  There are some hardcoded logic for the purposes of the demo.
+This is a quick example of how to build a chatbot using langchain that can generate dynamic charts and graphs based on data from an LLM using VertexAI.  Note that this is not optimized or tuned.  There is some hardcoded logic for the purposes of the demo.
 
 ## Example prompts
 
