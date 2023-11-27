@@ -54,12 +54,12 @@ streamlit run chatbot.py
 
 ## Screenshots 
 
-![Barchart](chatbot-barchart.png)
+![Barchart](images/chatbot-barchart.png)
 
-![Table](chatbot-table.png)
+![Table](images/chatbot-table.png)
 
-![Table with filter](chatbot-table-filter.png)
+![Table with filter](images/chatbot-table-filter.png)
 
-![Top stocks](chatbot-stocks.png)
+![Top stocks](images/chatbot-stocks.png)
 
-![Top stocks in a table](chatbot-stocks-table.png)
+![Top stocks in a table](images/chatbot-stocks-table.png)
